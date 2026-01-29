@@ -1,4 +1,4 @@
-# 🚗 Car‑Pooling Management Frontend – Streamlined, Scalable, and User‑Centric
+# 🚗 Car‑Pooling Management Frontend 
 
 A modern React‑based interface designed to simplify shared commuting.  
 This project demonstrates clean architecture, responsive design, and intuitive user experience — built to highlight frontend engineering skills and practical problem‑solving.

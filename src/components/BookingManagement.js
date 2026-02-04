@@ -97,15 +97,6 @@ const BookingManagement = () => {
     }
   };
 
-  const handleEdit = (booking) => {
-    setFormData({
-      ride: { id: booking.ride.id },
-      passenger: { id: booking.passenger.id },
-      seatsBooked: booking.seatsBooked,
-    });
-    setEditingId(booking.id);
-  };
-
   const handleConfirm = async (id) => {
     try {
       await bookingAPI.confirm(id);

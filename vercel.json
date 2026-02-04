@@ -1,5 +1,8 @@
 {
   "buildCommand": "npm run build",
   "outputDirectory": "build",
-  "nodeVersion": "18.x"
+  "nodeVersion": "20.x",
+  "env": {
+    "REACT_APP_API_URL": "http://localhost:8080/api"
+  }
 }

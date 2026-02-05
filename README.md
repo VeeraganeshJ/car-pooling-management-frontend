@@ -42,14 +42,18 @@ Deployment | Vercel |
 
 ---
 
-## 📂 Project Structure
+## 📁 Project Structure
 
+```
 src/
-├── components/
-├── pages/
-├── services/
-├── styles/
-└── App.js
+ ├── components/
+ ├── pages/
+ ├── services/
+ ├── styles/
+ └── App.js
+```
+
+---
 
 ## 🚀 Getting Started
 
@@ -60,6 +64,9 @@ git clone https://github.com/VeeraganeshJ/car-pooling-management-frontend.git
 cd car-pooling-management-frontend
 npm install
 npm start
+```
+
+---
 
 ## 🌐 Deployment
 
@@ -84,5 +91,9 @@ Ideal for portfolio demonstration and academic project presentation.
 
 - Veeraganesh J
 
-## 📂 Project Structure
+
+
+
+
+
 
